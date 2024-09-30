@@ -11,7 +11,7 @@ The project is set up to use:
 - prefers to use `describe` and `it`
 - JavaScript with stricter JSDoc or TypeScript
 - eslint for linting
-- standard for the style guide
+- eslint-config-standard-ext for the style guide
 - tsc for the compiler
 
 At the begining of the project the developer needs to replace the placeholders with the proper values.
