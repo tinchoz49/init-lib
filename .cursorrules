@@ -16,9 +16,8 @@ The project is set up to use:
 
 At the begining of the project the developer needs to replace the placeholders with the proper values.
 
-<npm-project>
-<project-name>
-<author-name>
-<author-email>
-<github-user>
-<year>
+tinchoz49/init-lib
+init-lib
+Martin Acosta
+tinchoz49@gmail.com
+2024

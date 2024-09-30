@@ -1,4 +1,4 @@
-# Contributing to <project-name>
+# Contributing to init-lib
 
 ## Issue Contributions
 
@@ -13,13 +13,13 @@ This document will guide you through the contribution process.
 
 ### Step 1: Fork
 
-Fork the project [on GitHub](https://github.com/<github-username>/<project-name>) and check out your copy locally.
+Fork the project [on GitHub](https://github.com/<github-username>/init-lib) and check out your copy locally.
 
 ```bash
-$ git clone git@github.com:<github-username>/<project-name>.git
-$ cd <project-name>
+$ git clone git@github.com:<github-username>/init-lib.git
+$ cd init-lib
 $ npm install
-$ git remote add upstream git://github.com/<github-username>/<project-name>.git
+$ git remote add upstream git://github.com/<github-username>/init-lib.git
 ```
 
 ### Step 2: Branch

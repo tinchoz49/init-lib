@@ -1,20 +1,20 @@
 {
-  "name": "<npm-project>",
+  "name": "init-lib",
   "type": "module",
   "version": "0.0.1",
   "description": "<project-description>",
   "author": {
-    "name": "<author-name>",
-    "email": "<author-email>"
+    "name": "Martin Acosta",
+    "email": "tinchoz49@gmail.com"
   },
   "license": "MIT",
-  "homepage": "https://github.com/<github-username>/<project-name>#readme",
+  "homepage": "https://github.com/<github-username>/init-lib#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/<github-username>/<project-name>.git"
+    "url": "git+https://github.com/<github-username>/init-lib.git"
   },
   "bugs": {
-    "url": "https://github.com/<github-username>/<project-name>/issues"
+    "url": "https://github.com/<github-username>/init-lib/issues"
   },
   "keywords": [
     "init-lib"
