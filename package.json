@@ -8,13 +8,13 @@
     "email": "tinchoz49@gmail.com"
   },
   "license": "MIT",
-  "homepage": "https://github.com/<github-username>/init-lib#readme",
+  "homepage": "https://github.com/tinchoz49/init-lib#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/<github-username>/init-lib.git"
+    "url": "git+https://github.com/tinchoz49/init-lib.git"
   },
   "bugs": {
-    "url": "https://github.com/<github-username>/init-lib/issues"
+    "url": "https://github.com/tinchoz49/init-lib/issues"
   },
   "keywords": [
     "init-lib"

@@ -13,13 +13,13 @@ This document will guide you through the contribution process.
 
 ### Step 1: Fork
 
-Fork the project [on GitHub](https://github.com/<github-username>/init-lib) and check out your copy locally.
+Fork the project [on GitHub](https://github.com/tinchoz49/init-lib) and check out your copy locally.
 
 ```bash
-$ git clone git@github.com:<github-username>/init-lib.git
+$ git clone git@github.com:tinchoz49/init-lib.git
 $ cd init-lib
 $ npm install
-$ git remote add upstream git://github.com/<github-username>/init-lib.git
+$ git remote add upstream git://github.com/tinchoz49/init-lib.git
 ```
 
 ### Step 2: Branch
