@@ -2,7 +2,7 @@
   "name": "init-lib",
   "type": "module",
   "version": "0.0.1",
-  "description": "<project-description>",
+  "description": "project-description",
   "author": {
     "name": "Martin Acosta",
     "email": "tinchoz49@gmail.com"

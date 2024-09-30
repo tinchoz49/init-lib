@@ -6,13 +6,14 @@ init-lib
 Martin Acosta
 tinchoz49@gmail.com
 2024
+project-description
 ```
 
-![<project-description>](.github/assets/logo.png '<project-description>')
+![project-description](.github/assets/logo.png 'project-description')
 
 # init-lib
 
-> <project-description>
+> project-description
 
 ![Tests](https://github.com/tinchoz49/init-lib/actions/workflows/test.yml/badge.svg)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard--ext-05ae89.svg)](https://github.com/tinchoz49/eslint-config-standard-ext)
