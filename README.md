@@ -2,7 +2,6 @@
 Replace everything in < > with the correct values.
 
 <npm-project>
-<node-version>
 <project-name>
 <author-name>
 <author-email>

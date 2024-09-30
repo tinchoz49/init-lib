@@ -17,7 +17,6 @@ The project is set up to use:
 At the begining of the project the developer needs to replace the placeholders with the proper values.
 
 <npm-project>
-<node-version>
 <project-name>
 <author-name>
 <author-email>
